@@ -13,15 +13,14 @@ Abnormal heat generation is one of the earliest indicators of faults in electric
 
 ## System Architecture
 
-**AMG8831 Thermal Sensor (I²C)** → **ESP32 (Edge Processing)** → **Fault Detection Logic** → **Alerts & Web Dashboard**
+**AMG8831 Thermal Sensor ** → **ESP32 (Edge Processing)** → **Fault Detection Logic** → **Alerts & Web Dashboard**
 
 ---
 
 ## Hardware Interface
 
-### I²C Sensor Interface
+###  Sensor Interface
 
-* **Protocol:** I²C
 * **Master:** ESP32
 * **Slave:** AMG8831 Thermal Sensor
 * **Signals:** SDA, SCL
@@ -70,7 +69,6 @@ Thermal-Fault-Detection-System/
 │   ├── system_architecture.pdf
 │   └── block_diagram.png
 │
-├── LICENSE
 └── README.md
 ```
 
@@ -160,5 +158,15 @@ Thermal-Fault-Detection-System/
 
 ## Author
 
-**Mohamed Suhail**
-Embedded Systems | VLSI | Thermal Fault Detection
+**MOHAMED SUHAIL M**
+ Embedded Systems | MATLAB | Thermal Fault Detection
+**NABEEL AHMED I**
+Embedded Systems | MATLAB | Thermal Fault Detection
+**MICHAEL ANTONY VIMALAN S**
+Web Dashboard | Embedded Systems
+**MUGUNTHAN MS**
+Web Dashboard | Data Interface
+**LOGESH D**
+Web Dashboard | Data Interface
+**PRAVEEN S**
+Wi-Fi communication | application integration

@@ -56,7 +56,7 @@ Thermal-Fault-Detection-System/
 │
 ├── firmware/
 │   ├── esp32_amg8831.ino        # ESP32 firmware (Arduino IDE)
-│   └── config.h                 # Pin and threshold configuration
+│                   # Pin and threshold configuration
 │
 ├── matlab/
 │   ├── thermal_visualization.m  # Heatmap generation and analysis

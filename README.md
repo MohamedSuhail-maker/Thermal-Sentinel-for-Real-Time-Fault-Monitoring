@@ -62,8 +62,7 @@ Thermal-Fault-Detection-System/
 │   ├── thermal_visualization.m  # Heatmap generation and analysis
 │   └── data_processing.m        # Thermal data preprocessing
 │
-├── web-dashboard/
-│   ├── index.html               # Dashboard UI               # Data handling and visualization
+├── web-dashboard/ # Dashboard UI               # Data handling and visualization
 │
 ├── docs/
 │   ├── system_architecture.pdf

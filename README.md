@@ -60,7 +60,7 @@ Thermal-Fault-Detection-System/
 │
 ├── matlab/
 │   ├── thermal_visualization.m  # Heatmap generation and analysis
-│   └── data_processing.m        # Thermal data preprocessing
+│   └── data_processing_web.m        # Thermal data preprocessing to website
 │
 ├── web-dashboard/ # Dashboard UI               # Data handling and visualization
 │

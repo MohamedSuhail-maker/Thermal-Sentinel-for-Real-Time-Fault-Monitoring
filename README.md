@@ -65,8 +65,8 @@ Thermal-Fault-Detection-System/
 ├── web-dashboard/ # Dashboard UI               # Data handling and visualization
 │
 ├── docs/
-│   ├── system_architecture.pdf
-│   └── block_diagram.png
+│   ├── block_diagram.png
+│   └── output_images
 │
 └── README.md
 ```

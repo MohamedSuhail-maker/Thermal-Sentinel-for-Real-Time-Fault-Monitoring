@@ -157,16 +157,21 @@ Thermal-Fault-Detection-System/
 
 
 ## Author
-
+##
 **MOHAMED SUHAIL M**
  Embedded Systems | MATLAB | Thermal Fault Detection
+ ##
 **NABEEL AHMED I**
 Embedded Systems | MATLAB | Thermal Fault Detection
+##
 **MICHAEL ANTONY VIMALAN S**
 Web Dashboard | Embedded Systems
+##
 **MUGUNTHAN MS**
 Web Dashboard | Data Interface
+##
 **LOGESH D**
 Web Dashboard | Data Interface
+##
 **PRAVEEN S**
 Wi-Fi communication | application integration
